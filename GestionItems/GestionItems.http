@@ -1,0 +1,6 @@
+@GestionItems_HostAddress = http://localhost:5141
+
+GET {{GestionItems_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
