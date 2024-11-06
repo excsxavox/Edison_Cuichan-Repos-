@@ -1,6 +1,5 @@
 using System.Threading;
 using System.Threading.Tasks;
-using GestionItemsTest.Data;
 using GestionUsuarios.Application.Queries;
 using GestionUsuarios.Data;
 using GestionUsuarios.Domain;

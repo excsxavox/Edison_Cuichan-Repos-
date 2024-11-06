@@ -1,0 +1,8 @@
+c:\Users\Edison\reposTest\GestionUsuarios\obj\Debug\net8.0\GestionUsuarios.csproj.AssemblyReference.cache
+c:\Users\Edison\reposTest\GestionUsuarios\obj\Debug\net8.0\GestionUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Edison\reposTest\GestionUsuarios\obj\Debug\net8.0\GestionUsuarios.AssemblyInfoInputs.cache
+c:\Users\Edison\reposTest\GestionUsuarios\obj\Debug\net8.0\GestionUsuarios.AssemblyInfo.cs
+c:\Users\Edison\reposTest\GestionUsuarios\obj\Debug\net8.0\GestionUsuarios.csproj.CoreCompileInputs.cache
+c:\Users\Edison\reposTest\GestionUsuarios\obj\Debug\net8.0\GestionUsuarios.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Edison\reposTest\GestionUsuarios\obj\Debug\net8.0\GestionUsuarios.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Edison\reposTest\GestionUsuarios\obj\Debug\net8.0\GestionUsuarios.sourcelink.json

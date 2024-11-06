@@ -6,9 +6,9 @@ namespace GestionUsuarios.Data
 {
     public class UserRepository : IUserRepository
     {
-        private readonly YourDbContext _context;
+        private readonly UserDbContext _context;
 
-        public UserRepository(YourDbContext context)
+        public UserRepository(UserDbContext context)
         {
             _context = context;
         }

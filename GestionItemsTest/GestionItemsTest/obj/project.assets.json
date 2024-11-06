@@ -3276,11 +3276,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Edison\\source\\repos\\GestionItemsTest\\GestionItemsTest\\GestionItemsTest.csproj",
+      "projectUniqueName": "C:\\Users\\Edison\\reposTest\\GestionItemsTest\\GestionItemsTest\\GestionItemsTest.csproj",
       "projectName": "GestionItemsTest",
-      "projectPath": "C:\\Users\\Edison\\source\\repos\\GestionItemsTest\\GestionItemsTest\\GestionItemsTest.csproj",
+      "projectPath": "C:\\Users\\Edison\\reposTest\\GestionItemsTest\\GestionItemsTest\\GestionItemsTest.csproj",
       "packagesPath": "C:\\Users\\Edison\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Edison\\source\\repos\\GestionItemsTest\\GestionItemsTest\\obj\\",
+      "outputPath": "C:\\Users\\Edison\\reposTest\\GestionItemsTest\\GestionItemsTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Edison\\AppData\\Roaming\\NuGet\\NuGet.Config",

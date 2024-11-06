@@ -5,3 +5,11 @@ c:\Users\Edison\source\repos\GestionItemsTest\GestionItemsTest\obj\Debug\net8.0\
 c:\Users\Edison\source\repos\GestionItemsTest\GestionItemsTest\obj\Debug\net8.0\GestionItemsTest.csproj.CoreCompileInputs.cache
 c:\Users\Edison\source\repos\GestionItemsTest\GestionItemsTest\obj\Debug\net8.0\GestionItemsTest.MvcApplicationPartsAssemblyInfo.cs
 c:\Users\Edison\source\repos\GestionItemsTest\GestionItemsTest\obj\Debug\net8.0\GestionItemsTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edison\reposTest\GestionItemsTest\GestionItemsTest\obj\Debug\net8.0\GestionItemsTest.csproj.AssemblyReference.cache
+C:\Users\Edison\reposTest\GestionItemsTest\GestionItemsTest\obj\Debug\net8.0\GestionItemsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edison\reposTest\GestionItemsTest\GestionItemsTest\obj\Debug\net8.0\GestionItemsTest.AssemblyInfoInputs.cache
+C:\Users\Edison\reposTest\GestionItemsTest\GestionItemsTest\obj\Debug\net8.0\GestionItemsTest.AssemblyInfo.cs
+C:\Users\Edison\reposTest\GestionItemsTest\GestionItemsTest\obj\Debug\net8.0\GestionItemsTest.csproj.CoreCompileInputs.cache
+C:\Users\Edison\reposTest\GestionItemsTest\GestionItemsTest\obj\Debug\net8.0\GestionItemsTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Edison\reposTest\GestionItemsTest\GestionItemsTest\obj\Debug\net8.0\GestionItemsTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edison\reposTest\GestionItemsTest\GestionItemsTest\obj\Debug\net8.0\GestionItemsTest.sourcelink.json
